@@ -25,8 +25,8 @@ namespace BubbleSort
                 lbNum.Items.Add(nums[i]);
                 NumAsc();
                 lbNumAsc.Items.Add(nums[i]);
-                //NumDes();
-                //lbNumDes.Items.Add(nums[i]);
+                NumDes();
+                lbNumDes.Items.Add(nums[i]);
             }
         }
         private void NumAsc()
@@ -45,7 +45,7 @@ namespace BubbleSort
                 }
             }
         }
-        /*
+        
         private void NumDes()
         {
             int temp;
@@ -61,6 +61,6 @@ namespace BubbleSort
                     }
                 }
             }
-        }*/
+        }
     }
 }

@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\carlo\\OneDrive\\Documentos\\UAM\\IISEMESTRE\\MYPE\\IICE\\practica\\BubbleSort\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0513E1F3-9224-4A80-8821-C6AB999D3F3D}|BubbleSort\\BubbleSort.csproj|C:\\Users\\carlo\\OneDrive\\Documentos\\UAM\\IISEMESTRE\\MYPE\\IICE\\practica\\BubbleSort\\bubblesort\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0513E1F3-9224-4A80-8821-C6AB999D3F3D}|BubbleSort\\BubbleSort.csproj|c:\\users\\carlo\\onedrive\\documentos\\uam\\iisemestre\\mype\\iice\\practica\\bubblesort\\bubblesort\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0513E1F3-9224-4A80-8821-C6AB999D3F3D}|BubbleSort\\BubbleSort.csproj|solutionrelative:bubblesort\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0513E1F3-9224-4A80-8821-C6AB999D3F3D}|BubbleSort\\BubbleSort.csproj|c:\\users\\carlo\\onedrive\\documentos\\uam\\iisemestre\\mype\\iice\\practica\\bubblesort\\bubblesort\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{0513E1F3-9224-4A80-8821-C6AB999D3F3D}|BubbleSort\\BubbleSort.csproj|C:\\Users\\carlo\\OneDrive\\Documentos\\UAM\\IISEMESTRE\\MYPE\\IICE\\practica\\BubbleSort\\bubblesort\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0513E1F3-9224-4A80-8821-C6AB999D3F3D}|BubbleSort\\BubbleSort.csproj|solutionrelative:bubblesort\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "BubbleSort\\Form1.cs",
               "ToolTip": "C:\\Users\\carlo\\OneDrive\\Documentos\\UAM\\IISEMESTRE\\MYPE\\IICE\\practica\\BubbleSort\\BubbleSort\\Form1.cs",
               "RelativeToolTip": "BubbleSort\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowD8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-04T04:35:45.239Z",
               "EditorCaption": ""
@@ -50,8 +50,7 @@
               "ToolTip": "C:\\Users\\carlo\\OneDrive\\Documentos\\UAM\\IISEMESTRE\\MYPE\\IICE\\practica\\BubbleSort\\BubbleSort\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "BubbleSort\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T04:30:45.778Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-10-04T04:30:45.778Z"
             }
           ]
         }
